@@ -1,2 +1,2 @@
-# ARDUINO-LCD-CONTROLLING-WITH-A-POTENTIOMETER
+# ARDUINO-LCD-CONTROLLING-WITH-A-POTENTIOMETER-AND-SERVO-MOTOR
 With this code, a servo motor angle is determined with the help of an analog potentiometer that can be adjusted to the desired value. That is, it automatically adjusts the servo motor angle in accordance with the analog input entered from the potentiometer. In addition, there is a numerical equivalent of this value on the LCD screen, which is connected to the circuit in accordance with the set value.  All these processes were realized in virtual environment by using TinkerCAD program. Also, simulation is easily done here.
